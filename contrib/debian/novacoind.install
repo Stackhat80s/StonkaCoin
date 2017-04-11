@@ -1,0 +1,2 @@
+debian/bin/StonkaCoind usr/bin
+src/StonkaCoind usr/lib/StonkaCoin
